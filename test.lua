@@ -1,0 +1,3 @@
+
+a="hellp"
+print(#a)
